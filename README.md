@@ -31,7 +31,7 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 ![](./Screenshots/describeServices2.PNG)
 
 
-### Kubernetes kubectl describe hpa output)
+### Kubernetes kubectl describe hpa output
 ![](./Screenshots/describe_hpa_output.PNG)
 
 
