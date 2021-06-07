@@ -8,8 +8,8 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 ### Screen Shots
 
-Docker images in my repository in DockerHub
-docker_hub_repo.png
+### Docker images in my repository in DockerHub
+![](./Screenshots/docker_hub_repo.png)
 
 ### TravisCI build pipeline showing successful build jobs
 travis_api_feed.PNG
