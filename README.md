@@ -15,7 +15,7 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 ![](./Screenshots/travis_api_feed.PNG)
 
 #### 2.
-![](./Screenshots/travis_api_feed2.PNG)
+![](./Screenshots/travis_api_feed_2.png)
 
 #### 3.
 ![](./Screenshots/travis_api_user.PNG)
