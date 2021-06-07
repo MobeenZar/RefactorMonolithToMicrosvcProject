@@ -13,15 +13,13 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 #### 1. ![](./Screenshots/travis_api_feed.PNG)
 
-#### 2.
-![](./Screenshots/travis_api_feed_2.png)
+#### 2. ![](./Screenshots/travis_api_feed_2.png)
 
-#### 3.
-![](./Screenshots/travis_api_user.png)
-#### 4.
-![](./Screenshots/travis_frontend.PNG)
-#### 5.
-![](./Screenshots/travis_api_reverse_proxy.png)
+#### 3. ![](./Screenshots/travis_api_user.png)
+
+#### 4. ![](./Screenshots/travis_frontend.png)
+
+#### 5. ![](./Screenshots/travis_api_reverse_proxy.png)
 
 
 ### Kubernetes kubectl get pods output
