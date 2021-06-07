@@ -32,7 +32,7 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 
 ### Kubernetes kubectl describe hpa output)
-![](./Screenshots/describe_hpa.PNG)
+![](./Screenshots/describe_hpa_output.PNG)
 
 
 ### Kubernetes kubectl logs pod output
